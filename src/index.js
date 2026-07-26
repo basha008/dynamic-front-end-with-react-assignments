@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import ProductCart from '../../first_project/src/product_cart/product_cart';
+import ProductCart from './assignment - 25-07-2026 (product_cart)/product_cart';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
