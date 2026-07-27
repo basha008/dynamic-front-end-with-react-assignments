@@ -4,11 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ProductCart from './assignment - 25-07-2026 (product_cart)/product_cart';
+import Timer from './assignment - 28-07-2026 - React Timer App/react_timer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ProductCart />
+    {/* <ProductCart /> */}
+    <Timer />
   </React.StrictMode>
 );
 
