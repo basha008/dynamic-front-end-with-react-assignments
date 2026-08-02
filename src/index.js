@@ -5,12 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ProductCart from './assignment - 25-07-2026 (product_cart)/product_cart';
 import Timer from './assignment - 28-07-2026 - React Timer App/react_timer';
+import MarkSheet from './assignment - 01-08-2026 (Marksheet with state and efftc hooks)/marksheet';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <ProductCart /> */}
-    <Timer />
+    {/* <Timer /> */}
+    <MarkSheet />
   </React.StrictMode>
 );
 
